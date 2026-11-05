@@ -13,30 +13,91 @@
    "id": "ex3",
    "demo": true,
    "status": "dispo",
-   "cat": "5",
-   "brand": "Volkswagen",
-   "model": "Golf",
-   "trim": "Life 2.0 TDI",
-   "year": 2022,
-   "firstReg": "2022-01",
-   "km": 62000,
-   "price": 21900,
-   "fuel": "Diesel",
-   "gearbox": "Automatique",
-   "power": 115,
-   "body": "Berline",
-   "color": "Noir",
+   "cat": "3",
+   "brand": "RENAULT",
+   "model": "CAPTUR",
+   "trim": "TECHNO",
+   "year": 2025,
+   "firstReg": "2025-02",
+   "km": 60000,
+   "price": 15300,
+   "fuel": "Essence",
+   "gearbox": "Manuelle",
+   "power": 90,
+   "body": "SUV",
+   "color": "Blanche",
    "doors": 5,
    "seats": 5,
-   "owners": 2,
-   "critair": "2",
+   "owners": 1,
+   "critair": "1",
    "warranty": "",
    "options": [
     "GPS",
     "Sièges chauffants"
    ],
-   "desc": "Annonce d'exemple pour montrer la présentation d'une fiche de moins de 5 ans.",
-   "photos": []
+   "desc": "RENAULT CAPTUR TECHNO, mise en circulation en 02/2025, avec 60 000 km au compteur. Elle propose : motorisation essence, 90 ch, boîte manuelle. Coupé, couleur blanche.\n\nÉquipements : GPS, Sièges chauffants. Contactez-nous sur WhatsApp pour plus d'informations ou pour organiser un essai.",
+   "photos": [
+    {
+     "src": "photos/mw3yom68y5m13.jpg"
+    },
+    {
+     "src": "photos/mw3ynzztxx1c8.jpg"
+    },
+    {
+     "src": "photos/mw3yo21kz05v9.jpg"
+    },
+    {
+     "src": "photos/mw3yo3p4yg8b1.jpg"
+    },
+    {
+     "src": "photos/mw3yo5ibpdv23.jpg"
+    },
+    {
+     "src": "photos/mw3yo77ds87ex.jpg"
+    },
+    {
+     "src": "photos/mw3yo8xpi8q6y.jpg"
+    },
+    {
+     "src": "photos/mw3yoavz9vzcb.jpg"
+    },
+    {
+     "src": "photos/mw3yocjrr6h6r.jpg"
+    },
+    {
+     "src": "photos/mw3yoem9lrwko.jpg"
+    },
+    {
+     "src": "photos/mw3yoghs5gixf.jpg"
+    },
+    {
+     "src": "photos/mw3yoib07qkdl.jpg"
+    },
+    {
+     "src": "photos/mw3yok9j6vvnk.jpg"
+    },
+    {
+     "src": "photos/mw3yonxnlgprq.jpg"
+    },
+    {
+     "src": "photos/mw3yopkvcaw7t.jpg"
+    },
+    {
+     "src": "photos/mw3yoridjrf9m.jpg"
+    },
+    {
+     "src": "photos/mw3yotfe2tnje.jpg"
+    },
+    {
+     "src": "photos/mw3yov05w4ins.jpg"
+    },
+    {
+     "src": "photos/mw3yowqktlh7r.jpg"
+    },
+    {
+     "src": "photos/mw3yoyjbblbe7.jpg"
+    }
+   ]
   },
   {
    "id": "ex4",
