@@ -102,30 +102,74 @@
   {
    "id": "ex4",
    "demo": true,
-   "status": "vendu",
-   "cat": "5",
+   "status": "dispo",
+   "cat": "3",
    "brand": "OPEL",
-   "model": "Yaris",
-   "trim": "Dynamic Hybride",
-   "year": 2022,
-   "firstReg": "2022-06",
-   "km": 41000,
-   "price": 18900,
-   "fuel": "Hybride",
+   "model": "Mokka",
+   "trim": "GS",
+   "year": 2024,
+   "firstReg": "2024-06",
+   "km": 65000,
+   "price": 11900,
+   "fuel": "Essence",
    "gearbox": "Automatique",
-   "power": 116,
-   "body": "Citadine",
-   "color": "Blanc",
+   "power": 130,
+   "body": "SUV",
+   "color": "Gris ",
    "doors": 5,
    "seats": 5,
    "owners": 1,
    "critair": "1",
    "warranty": "",
-   "options": [
-    "Caméra de recul"
-   ],
-   "desc": "Annonce d'exemple pour montrer une voiture vendue.",
-   "photos": []
+   "options": [],
+   "desc": "OPEL Mokka GS, mise en circulation en 06/2024, avec 65 000 km au compteur. Elle propose : motorisation essence, 130 ch, boîte automatique. SUV, couleur gris .\n\nContactez-nous sur WhatsApp pour plus d'informations ou pour organiser un essai.",
+   "photos": [
+    {
+     "src": "photos/mw3yy3k9eq4nz.jpg"
+    },
+    {
+     "src": "photos/mw3yxxwro97ru.jpg"
+    },
+    {
+     "src": "photos/mw3yxzvm9g7uf.jpg"
+    },
+    {
+     "src": "photos/mw3yy1tbuwway.jpg"
+    },
+    {
+     "src": "photos/mw3yy5comfljy.jpg"
+    },
+    {
+     "src": "photos/mw3yy71w33rmf.jpg"
+    },
+    {
+     "src": "photos/mw3yy9198gv0g.jpg"
+    },
+    {
+     "src": "photos/mw3yyav7eu2ii.jpg"
+    },
+    {
+     "src": "photos/mw3yycnjw58g1.jpg"
+    },
+    {
+     "src": "photos/mw3yyedy68d88.jpg"
+    },
+    {
+     "src": "photos/mw3yyg4an6x6k.jpg"
+    },
+    {
+     "src": "photos/mw3yyhu7z1z1d.jpg"
+    },
+    {
+     "src": "photos/mw3yyjemklacy.jpg"
+    },
+    {
+     "src": "photos/mw3yyl1fq2oii.jpg"
+    },
+    {
+     "src": "photos/mw3yymzd54t93.jpg"
+    }
+   ]
   }
  ]
 }
