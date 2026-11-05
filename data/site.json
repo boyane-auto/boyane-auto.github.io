@@ -10,6 +10,65 @@
  },
  "cars": [
   {
+   "id": "amw40655f",
+   "status": "dispo",
+   "cat": "3",
+   "brand": "PEUGEOT",
+   "model": "2008",
+   "trim": "Active 1.2 PureTech",
+   "year": 2024,
+   "firstReg": "2024-02",
+   "km": 40000,
+   "price": 11500,
+   "fuel": "Essence",
+   "gearbox": "Manuelle",
+   "power": 76,
+   "body": "SUV",
+   "color": "Noir",
+   "doors": 5,
+   "seats": 5,
+   "owners": 1,
+   "critair": "",
+   "warranty": "",
+   "options": [],
+   "desc": "PEUGEOT 2008 Active 1.2 PureTech, mise en circulation en 02/2024, avec 40 000 km au compteur. Elle propose : motorisation essence, 76 ch, boîte manuelle. SUV, couleur noir.\n\nContactez-nous sur WhatsApp pour plus d'informations ou pour organiser un essai.",
+   "photos": [
+    {
+     "src": "photos/mw405ecuawbcd.jpg"
+    },
+    {
+     "src": "photos/mw405gagf1nx1.jpg"
+    },
+    {
+     "src": "photos/mw405i0drfwe1.jpg"
+    },
+    {
+     "src": "photos/mw405jzlyg08h.jpg"
+    },
+    {
+     "src": "photos/mw405lvq7g4mn.jpg"
+    },
+    {
+     "src": "photos/mw405ntv1kzxj.jpg"
+    },
+    {
+     "src": "photos/mw405pov4hm3u.jpg"
+    },
+    {
+     "src": "photos/mw405rnk0m6nz.jpg"
+    },
+    {
+     "src": "photos/mw405tiiwemhz.jpg"
+    },
+    {
+     "src": "photos/mw405vliwxtpa.jpg"
+    },
+    {
+     "src": "photos/mw405x4vad4t4.jpg"
+    }
+   ]
+  },
+  {
    "id": "ex3",
    "demo": true,
    "status": "dispo",
